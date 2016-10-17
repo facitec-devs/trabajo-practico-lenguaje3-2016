@@ -19,4 +19,8 @@ Desarrollar un Sistema para un Taller Mecánico
 - El Sistema debe de tener un Menu Principal
 - El Sistema debe poseer Menus y botoneras de acceso rapido a las principales acciones
 
+## Diagrama de Entidad Relación del Modelo de la Base de Datos
+
+https://github.com/facitec-devs/trabajo-practico-lenguaje3-2016/blob/master/art/modeloDB.pdf
+
 
